@@ -7,8 +7,6 @@ This repository showcases a parallax scrolling website built with HTML, CSS, and
 - [Description](#description)
 - [Demo](#demo)
 - [Getting Started](#getting-started)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Description
 
@@ -16,7 +14,7 @@ This parallax website demonstrates the power of modern web technologies. It uses
 
 ## Demo
 
-You can explore the live demo of the parallax website [here](https://advindiancoder.github.io/Parallax-Website/).
+You can explore the live demo of the parallax website [here](https://advindiancoder.github.io/ADV-Parallax-Website---ADV-Indian-Coder/).
 
 ## Getting Started
 
